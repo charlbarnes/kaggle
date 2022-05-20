@@ -1,0 +1,4 @@
+nltk
+pyspark
+findspark
+pandas
